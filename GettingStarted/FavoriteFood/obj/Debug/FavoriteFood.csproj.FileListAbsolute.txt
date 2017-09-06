@@ -1,0 +1,5 @@
+C:\Users\eahscs\Documents\GitHub\GettingStarted\GettingStarted\FavoriteFood\bin\Debug\FavoriteFood.exe.config
+C:\Users\eahscs\Documents\GitHub\GettingStarted\GettingStarted\FavoriteFood\bin\Debug\FavoriteFood.exe
+C:\Users\eahscs\Documents\GitHub\GettingStarted\GettingStarted\FavoriteFood\bin\Debug\FavoriteFood.pdb
+C:\Users\eahscs\Documents\GitHub\GettingStarted\GettingStarted\FavoriteFood\obj\Debug\FavoriteFood.exe
+C:\Users\eahscs\Documents\GitHub\GettingStarted\GettingStarted\FavoriteFood\obj\Debug\FavoriteFood.pdb
