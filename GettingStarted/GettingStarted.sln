@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.26430.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GettingStarted", "GettingStarted.csproj", "{5EFF97BD-B673-473D-93F8-769A964ABDAC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "..\ConsoleApp1\ConsoleApp1.csproj", "{44837F9A-B1F3-476A-987D-2D6B9F7E081E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "passwordAuthentication", "..\ConsoleApp1\passwordAuthentication.csproj", "{44837F9A-B1F3-476A-987D-2D6B9F7E081E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FavoriteFood", "FavoriteFood\FavoriteFood.csproj", "{7B2C4E92-11D2-45DB-A188-457CF74A20E6}"
 EndProject

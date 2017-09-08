@@ -3,3 +3,4 @@ C:\Users\eahscs\Documents\GitHub\GettingStarted\GettingStarted\FavoriteFood\bin\
 C:\Users\eahscs\Documents\GitHub\GettingStarted\GettingStarted\FavoriteFood\bin\Debug\FavoriteFood.pdb
 C:\Users\eahscs\Documents\GitHub\GettingStarted\GettingStarted\FavoriteFood\obj\Debug\FavoriteFood.exe
 C:\Users\eahscs\Documents\GitHub\GettingStarted\GettingStarted\FavoriteFood\obj\Debug\FavoriteFood.pdb
+C:\Users\eahscs\Documents\GitHub\GettingStarted\GettingStarted\FavoriteFood\obj\Debug\FavoriteFood.csprojResolveAssemblyReference.cache

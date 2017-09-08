@@ -14,9 +14,14 @@ namespace FavoriteFood
             var favoriteFood = Console.ReadLine();
 
             if (favoriteFood == "pizza")
+                {
+                    Console.WriteLine("Most excellent and correct!Pizza is indeed one of the best foods ever put on this earth.");
+                }
+            else
             {
-                Console.WriteLine("Most excellent and correct!Pizza is indeed one of the best foods ever put on this earth.");
+                Console.WriteLine("Wrong!  That is a terrible choice and you should feel bad about yourself.   Your favorite should be pizza!");
             }
         }
     }
 }
+    
