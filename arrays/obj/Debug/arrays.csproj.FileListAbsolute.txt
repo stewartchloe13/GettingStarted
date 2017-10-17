@@ -1,0 +1,5 @@
+C:\Users\eahscs\Documents\GitHub\GettingStarted\arrays\bin\Debug\arrays.exe.config
+C:\Users\eahscs\Documents\GitHub\GettingStarted\arrays\bin\Debug\arrays.exe
+C:\Users\eahscs\Documents\GitHub\GettingStarted\arrays\bin\Debug\arrays.pdb
+C:\Users\eahscs\Documents\GitHub\GettingStarted\arrays\obj\Debug\arrays.exe
+C:\Users\eahscs\Documents\GitHub\GettingStarted\arrays\obj\Debug\arrays.pdb
