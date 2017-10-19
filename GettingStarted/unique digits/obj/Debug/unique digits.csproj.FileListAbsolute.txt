@@ -3,3 +3,4 @@ C:\Users\eahscs\Documents\GitHub\GettingStarted\GettingStarted\unique digits\bin
 C:\Users\eahscs\Documents\GitHub\GettingStarted\GettingStarted\unique digits\bin\Debug\unique digits.pdb
 C:\Users\eahscs\Documents\GitHub\GettingStarted\GettingStarted\unique digits\obj\Debug\unique digits.exe
 C:\Users\eahscs\Documents\GitHub\GettingStarted\GettingStarted\unique digits\obj\Debug\unique digits.pdb
+C:\Users\eahscs\Documents\GitHub\GettingStarted\GettingStarted\unique digits\obj\Debug\unique digits.csprojResolveAssemblyReference.cache

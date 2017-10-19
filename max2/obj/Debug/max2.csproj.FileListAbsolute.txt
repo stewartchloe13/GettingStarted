@@ -1,0 +1,5 @@
+C:\Users\eahscs\Documents\GitHub\GettingStarted\max2\bin\Debug\max2.exe.config
+C:\Users\eahscs\Documents\GitHub\GettingStarted\max2\bin\Debug\max2.exe
+C:\Users\eahscs\Documents\GitHub\GettingStarted\max2\bin\Debug\max2.pdb
+C:\Users\eahscs\Documents\GitHub\GettingStarted\max2\obj\Debug\max2.exe
+C:\Users\eahscs\Documents\GitHub\GettingStarted\max2\obj\Debug\max2.pdb
